@@ -1,0 +1,27 @@
+.contentcontainer{
+    
+   padding:30px;
+   margin:40px;
+   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+   /* background-color: turquoise; */
+}
+.contentcontainer>p{
+    text-align: center;
+    font-size: 20px;
+}
+
+.gobackbutton{
+    font-size: 25px;
+    margin:30px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+
+.componentcontainer{
+    height:82vh;
+}

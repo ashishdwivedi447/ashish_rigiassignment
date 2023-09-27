@@ -1,0 +1,17 @@
+.aboutContainer{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+padding: 30px;
+margin:40px;
+}
+
+.aboutContainer>div:nth-child(1){
+    font-size: 22px;
+}
+
+.aboutContainer>div:nth-child(2){
+    font-size: 20px;
+    margin:10px
+}
+.aboutcomponentcontainer{
+    height:82vh;
+}

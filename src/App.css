@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+.light{
+    background-color: white;
+    color:black
+  }
+  .light{
+    background-color: black;
+    color:white;
+  }
+  .App {
+    text-align: center;
+    height:100%;
+    
+  }

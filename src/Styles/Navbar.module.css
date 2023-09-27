@@ -1,0 +1,19 @@
+.togglebutton{
+    font-size:25px;
+    background-color: red;
+    color:white;
+    border:none;
+    padding:7px 7px 7px 7px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.Navbar{
+    height:60px;
+    border:1px solid silver;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: silver;
+    cursor: pointer;
+    
+}
